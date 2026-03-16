@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Vedant Khandale
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;Intern;Frontend+Developer;Techy;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;JavaScript+Learner;Frontend+Developer;Open+Source+Enthusiast" />
 </p>
 
 ---
@@ -83,7 +83,7 @@ Web application built using **PHP & MySQL**
 
 ## 👀 Profile Visitors
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Vedantkhandale\&color=blue)
+![Profile views](https://komarev.com/ghpvc/?username=Vedantkhandale\&label=Profile%20views\&color=0e75b6\&style=flat)
 
 ---
 
