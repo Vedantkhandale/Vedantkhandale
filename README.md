@@ -17,9 +17,28 @@
 
 ## 🧠 Tech Stack
 
+### Frontend
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode,bootstrap" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
 </p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,mysql,wordpress" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### Additional Technologies
+
+* AJAX
+* jQuery
 
 ---
 
