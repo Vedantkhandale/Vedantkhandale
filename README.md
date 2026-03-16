@@ -1,44 +1,78 @@
-Hi there 👋 I'm Vedant Khandale
+# Hi there 👋 I'm Vedant Khandale
 
-💻 Web Developer | Intern  
-🚀 Passionate about building web applications and learning new technologies.
-
-
-🚀 About Me
-
-- 🌱 Currently learning JavaScript, PHP and Web Development
-- 💻 Interested in Frontend & Backend Development
-- 📍 Based in Nagpur, India
-- 📚 Working on college and personal development projects
-
- 🛠 Tech Stack
-
-Programming
-- JavaScript
-- PHP
-- HTML
-- CSS
-
-Tools
-- Git
-- GitHub
-- VS Code
-- XAMPP
-
- 📂 Projects
-
-- Wiki Project
-- Spotify Clone
-- Event Management System
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;JavaScript+Learner;Frontend+Developer;Open+Source+Enthusiast" />
+</p>
 
 ---
 
- 📊 GitHub Stats
+## 🚀 About Me
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedantkhandale&show_icons=true&theme=tokyonight)
+* 🌱 Currently learning **JavaScript, PHP, and Web Development**
+* 💻 Interested in **Frontend & Backend Development**
+* 📍 Based in **Nagpur, India**
+* 🚀 Building projects and improving coding skills
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantkhandale&layout=compact&theme=tokyonight)
+---
 
+## 🧠 Tech Stack
 
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,git,github,vscode,bootstrap" />
+</p>
 
-⭐ From Vedant Khandale
+---
+
+## 📂 Featured Projects
+
+⭐ **Wiki Project**
+Dynamic wiki application using **JavaScript & AJAX**
+
+⭐ **Spotify Clone**
+Music player built using **HTML, CSS & JavaScript**
+
+⭐ **Event Management System**
+Web application built using **PHP & MySQL**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Vedantkhandale&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantkhandale&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Vedantkhandale&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+![snake gif](https://github.com/Vedantkhandale/Vedantkhandale/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+## 👀 Profile Visitors
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Vedantkhandale\&color=blue)
+
+---
+
+## 🌐 Connect With Me
+
+💻 GitHub: https://github.com/Vedantkhandale
+📍 Nagpur, India
+
+---
+
+⭐ From **Vedant Khandale**
