@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi there 👋 I'm Vedant Khandale
 
-<!--
-**Vedantkhandale/Vedantkhandale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Web Developer | Intern  
+🚀 Passionate about building web applications and learning new technologies.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+- 🌱 Currently learning JavaScript, PHP and Web Development
+- 💻 Interested in Frontend & Backend Development
+- 📍 Based in Nagpur, India
+- 📚 Working on college and personal development projects
+
+ 🛠 Tech Stack
+
+Programming
+- JavaScript
+- PHP
+- HTML
+- CSS
+
+Tools
+- Git
+- GitHub
+- VS Code
+- XAMPP
+
+ 📂 Projects
+
+- Wiki Project
+- Spotify Clone
+- Event Management System
+
+---
+
+ 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedantkhandale&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantkhandale&layout=compact&theme=tokyonight)
+
+
+
+⭐ From Vedant Khandale
