@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-* 🌱 Currently learning **JavaScript, PHP, and Web Development**
+* 🌱 Currently learning **python, PHP, and Web Development,Intern **
 * 💻 Interested in **Frontend & Backend Development**
 * 📍 Based in **Nagpur, India**
 * 🚀 Building projects and improving coding skills
