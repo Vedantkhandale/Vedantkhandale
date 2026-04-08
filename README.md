@@ -75,6 +75,14 @@
 
 ---
 
+## 🟩 Contribution Calendar (Daily Commits 🔥)
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00F7FF/Vedantkhandale" />
+</p>
+
+---
+
 ## 📈 Detailed Contribution Report
 
 <p align="center">
@@ -106,13 +114,13 @@
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="vedantt.khandale@gmail.com">
     <img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/vedantkhandale">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://wa.me/91XXXXXXXXXX">
+  <a href="https://wa.me/91+9322435771">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/>
   </a>
   <a href="https://github.com/Vedantkhandale">
