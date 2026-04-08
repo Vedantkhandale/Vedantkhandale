@@ -59,7 +59,7 @@
 
 ---
 
-## 📊 GitHub Stats (Commits + Push Tracker 🔥)
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Vedantkhandale&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -75,7 +75,7 @@
 
 ---
 
-## 🟩 Contribution Calendar (Real GitHub Data)
+## 🟩 Contribution Calendar
 
 <p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=Vedantkhandale" />
@@ -83,22 +83,10 @@
 
 ---
 
-## 🖤 Neon Contribution Grid (Stylish View)
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/39FF14/Vedantkhandale" />
-</p>
-
----
-
-## 📈 Detailed Contribution Report
+## 📈 Contribution Summary
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vedantkhandale&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vedantkhandale&theme=tokyonight" />
 </p>
 
 ---
