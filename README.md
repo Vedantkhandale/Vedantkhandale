@@ -70,9 +70,12 @@
 
 ## 🟩 Contribution Calendar
 
+
+
 <p align="center">
-  <img src="https://ghchart.rshah.org/Vedantkhandale" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=Vedantkhandale" />
 </p>
+
 
 ---
 
