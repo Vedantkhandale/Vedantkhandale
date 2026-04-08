@@ -1,7 +1,7 @@
 # 👨‍💻 Vedant Khandale | Full Stack Developer 🚀
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;💼+Web+Developer+Intern+@ICTRD.IN;🔥+JavaScript+%7C+PHP+Developer;📊+Tracking+Commits+%26+Growth+Daily" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀+Full+Stack+Developer;💼+Web+Developer+Intern+@ICTRD.IN;🔥+JavaScript+%7C+PHP+Developer; Python Learner ;📊+Tracking+Commits+%26+Growth+Daily" />
 </p>
 
 <p align="center">
