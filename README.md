@@ -1,97 +1,111 @@
-# Hi there 👋 I'm Vedant Khandale
+# 🚀 Hey, I'm Vedant Khandale 👋
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;JavaScript+Learner;Frontend+Developer;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+in+Progress;JavaScript+%7C+PHP+Learner;Building+Cool+Web+Projects;Open+Source+Enthusiast🔥" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-* 🌱 Currently learning **python, PHP, and Web Development,Intern **
-* 💻 Interested in **Frontend & Backend Development**
-* 📍 Based in **Nagpur, India**
-* 🚀 Building projects and improving coding skills
-
----
-
-## 🧠 Tech Stack
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=php,mysql,wordpress" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
-
-### Additional Technologies
-
-* AJAX
-* jQuery
+- 🚀 Passionate about building **modern web applications**
+- 🌱 Currently learning **Python, PHP & Advanced Web Dev**
+- 💡 Exploring **Full Stack Development**
+- 📍 Based in **Nagpur, India**
+- ⚡ Turning ideas into real-world projects
 
 ---
 
-## 📂 Featured Projects
+## 🛠️ Tech Stack
 
-⭐ **Wiki Project**
-Dynamic wiki application using **JavaScript & AJAX**
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+</p>
 
-⭐ **Spotify Clone**
-Music player built using **HTML, CSS & JavaScript**
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,mysql,wordpress" />
+</p>
 
-⭐ **Event Management System**
-Web application built using **PHP & MySQL**
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+### ⚡ Extras
+- AJAX  
+- jQuery  
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
+
+✨ **Wiki Project**  
+> Dynamic wiki app using **JavaScript + AJAX**
+
+🎧 **Spotify Clone**  
+> Music player built with **HTML, CSS & JS**
+
+📅 **Event Management System**  
+> Full-stack project using **PHP & MySQL**
+
+---
+
+## 📊 GitHub Analytics (Full Sexy Mode 😎)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vedantkhandale&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vedantkhandale&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantkhandale&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vedantkhandale&theme=tokyonight&hide_border=true" />
 </p>
-
----
-
-## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Vedantkhandale&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vedantkhandale&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph (Commits Tracker 🔥)
 
-![snake gif](https://github.com/Vedantkhandale/Vedantkhandale/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vedantkhandale&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<p align="center">
+  <img src="https://github.com/Vedantkhandale/Vedantkhandale/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
 ## 👀 Profile Visitors
 
-![Profile views](https://komarev.com/ghpvc/?username=Vedantkhandale\&label=Profile%20views\&color=0e75b6\&style=flat)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vedantkhandale&label=Profile%20Views&color=00F7FF&style=for-the-badge" />
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-💻 GitHub: https://github.com/Vedantkhandale
-📍 Nagpur, India
+<p align="center">
+  <a href="https://github.com/Vedantkhandale">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-⭐ From **Vedant Khandale**
+## 💥 Quote of the Day
+
+> "Code. Create. Conquer." 🚀
+
+---
+
+⭐ **From Vedant Khandale**
