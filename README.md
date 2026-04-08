@@ -25,7 +25,7 @@
 
 ## 🏢 Experience
 
-✨ **Web Developer Intern** @ ICTRD.IN
+✨ **Web Developer Intern @ ICTRD.IN**
 
 > * Developed responsive UI & real projects
 > * Worked with PHP, MySQL & APIs
@@ -75,10 +75,18 @@
 
 ---
 
-## 🟩 Contribution Calendar (Real GitHub Style 🔥)
+## 🟩 Contribution Calendar (Real GitHub Data)
 
 <p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=Vedantkhandale" />
+</p>
+
+---
+
+## 🖤 Neon Contribution Grid (Stylish View)
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/39FF14/Vedantkhandale" />
 </p>
 
 ---
