@@ -41,7 +41,7 @@
 
 ## 🚀 Languages
 
-<img src="https://skillicons.dev/icons?i=php,js,python,mysql,html,css,c,cpp" />
+<img src="https://skillicons.dev/icons?i=php,js,python,mysql,html,css,c," />
 
 ---
 
