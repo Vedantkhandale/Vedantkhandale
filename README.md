@@ -47,13 +47,13 @@
 
 ## 🎨 Frontend & Frameworks
 
-<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,react,nodejs" />
+<img src="https://skillicons.dev/icons?i=bootstrap," />
 
 ---
 
 ## ⚙️ Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma,photoshop" />
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,photoshop" />
 
 </div>
 
